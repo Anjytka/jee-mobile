@@ -1,4 +1,4 @@
-package ru.ilyina.ann;
+package ru.ilyina.ann.resource;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

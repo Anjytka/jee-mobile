@@ -4,5 +4,6 @@
              xsi:schemaLocation="http://java.sun.com/xml/ns/persistence">
     <persistence-unit name="MobileUnit" transaction-type="JTA">
         <jta-data-source>java:jboss/datasources/MobileDS</jta-data-source>
+        <class>ru.ilyina.ann.domain.MDemo</class>
     </persistence-unit>
 </persistence>
